@@ -66,6 +66,6 @@ Bu proje MIT Lisansı altında lisanslanmıştır - detaylar için LICENSE dosya
 
 ## Contact / İletişim
 
-For further assistance, please contact.
+For further assistance, please refer to the contact information provided on the [Sınav analiz sistemi Blog Page](https://koordinatorluk.blogspot.com/).
 
-Daha fazla yardım için lütfen Dr. Metin Çiriş ile iletişime geçin.
+Daha fazla yardım için lütfen [Sınav analiz sistemi Blog Sayfası](https://koordinatorluk.blogspot.com/) üzerindeki iletişim bilgilerine başvurun.
