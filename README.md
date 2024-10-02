@@ -51,6 +51,9 @@ Bu depoda şunlar bulunmaktadır:
 - Test için örnek OMR verileri.
 - Örnek bir cevap anahtarı dosyası.
 - Örnek öğrenci rapor şablonları.
+  
+## Yenilikler
+- 100 soruluk versiyonda yenilik: ANALİZ ÜNİVERSAL v4.41 02102024 Yenilik: Test Notu sayfasında her ders için yanlış sayıları eklendi. Ayrıca doğrular sayfası gösterildi. Yeni dosya olarak eklendi
 
 ## Contributions / Katkılar
 
